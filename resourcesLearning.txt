@@ -1,0 +1,12 @@
+https://whypxc.medium.com/how-to-use-dotenv-on-golang-bc7f83f4ba78
+for env files in go
+
+https://whypxc.medium.com/connect-to-mongodb-on-golang-f4a310e7247b
+for mongo connection
+
+https://dsysd-dev.medium.com/how-to-use-gin-framework-in-golang-for-web-development-c9bb09c39415
+for gin
+
+https://medium.com/@rnp0728/secure-password-hashing-in-go-a-comprehensive-guide-5500e19e7c1f
+hashing 
+

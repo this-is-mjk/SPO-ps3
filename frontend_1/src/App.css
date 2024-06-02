@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+h2 {
+    font-family:'Courier New', Courier, monospace;
+}
+.dataForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 300px;
+    box-shadow: 4px 8px 15px rgba(241, 241, 241, 0.5);
+    height: 40%;
+    height: fit-content;
+    border: 2px solid rgb(16, 18, 20);
+}
+.login-signup-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(16, 18, 20);
+}
+.inputField-btn{
+    width: 70%;
+    margin-top: 10px;;
+}
